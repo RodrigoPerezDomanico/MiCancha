@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
 import Header from '../components/header'
 import Login from '../components/Login'
 
@@ -13,16 +13,5 @@ class App extends React.Component{
   }
 }
 
-// function App() {
-//   return (
-//     <div className="global Container">
-        
-
-//     </div>
-    
-    
-    
-//   );
-// }
 
 export default App;
